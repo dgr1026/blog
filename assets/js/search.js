@@ -29,6 +29,11 @@ var documents = [{
     "url": "https://dgr1026.github.io/jupyter/python/2020/02/25/%ED%85%8C%EC%8A%A4%ED%8A%B8-ipython.html",
     "title": "테스트 jupyter",
     "body": "2020/02/25 -                 print(&quot;Hello Everyone&quot;)  Hello  "
+    }, {
+    "id": 6,
+    "url": "https://dgr1026.github.io/2020/02/25/test.html",
+    "title": "Test",
+    "body": "2020/02/25 - 워드파일 테스트입니다           EM   F1         Model1   15   40       Model2   16   50       Model3   80   90   "
     }];
 
 var idx = lunr(function () {
