@@ -1,11 +1,11 @@
 ---
-
+layout: post
 title: About Me
 permalink: /about/
 ---
 
 
-![](images/profile.png "Profile")
+![](../images/profile.png "Profile")
 
 
 ## Personal Identification
