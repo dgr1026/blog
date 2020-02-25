@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![](../images/profile.png "")
+![](../images/profile.png " ")
 
 
 ## Personal Identification
