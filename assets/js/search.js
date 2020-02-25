@@ -21,24 +21,24 @@ var documents = [{
     "body": "WarningDo not manually save images into this folder. This is used by GitHub Actions to automatically copy images.  Any images you save into this folder could be deleted at build time. "
     }, {
     "id": 4,
+    "url": "https://dgr1026.github.io/2020/02/25/2018-08-08-NAVER_Techtalk.html",
+    "title": "",
+    "body": "2020/02/25 -           "
+    }, {
+    "id": 5,
     "url": "https://dgr1026.github.io/%EC%9D%B4%ED%98%84%EA%B5%AC/nlp/2020/02/25/%ED%85%8C%EC%8A%A4%ED%8A%B8_markdown%EC%9E%85%EB%8B%88%EB%8B%A4.html",
     "title": "테스트 Markdown",
     "body": "2020/02/25 - 안녕하세요감사해요: 잘있어요: 다시만나요: Basic setup: "
     }, {
-    "id": 5,
+    "id": 6,
     "url": "https://dgr1026.github.io/jupyter/python/2020/02/25/%ED%85%8C%EC%8A%A4%ED%8A%B8-ipython.html",
     "title": "테스트 jupyter",
     "body": "2020/02/25 -                 print(&quot;Hello Everyone&quot;)  Hello  "
     }, {
-    "id": 6,
+    "id": 7,
     "url": "https://dgr1026.github.io/2020/02/25/test.html",
     "title": "Test",
     "body": "2020/02/25 - 워드파일 테스트입니다           EM   F1         Model1   15   40       Model2   16   50       Model3   80   90   "
-    }, {
-    "id": 7,
-    "url": "https://dgr1026.github.io/2018/08/08/NAVER_Techtalk.html",
-    "title": "Title",
-    "body": "2018/08/08 -           &#50612;&#46523;&#44172; &#54644;&#50556; &#44592;&#44228;&#50640;&#44172; &#44544;&#51012; &#51096; &#51069;&#44256; &#47568;&#54624; &#49688; &#51080;&#44172; &#54624;&#44620;?&#182;2018-07 NAVER techtalk 발표 영상입니다. toc: true - comments: true- categories: [MRC]SQuAD가 공개되고 널리 알려지면서 기계독해(Machine Reading Comprehension)가 각광받기 시작했습니다. SQuAD란 스탠포드대에서 만든, 기계가 주어진 문서를 읽고 그와 관련된 질문을 할 경우 정답을 찾아 답해주는 시스템을 위한 데이터셋을 뜻합니다. 이러한 기계독해가 어떻게 작동하는지, 어떻게 접근해야 이해를 돕게 할 수 있고 어떻게 해야 대답을 잘 할 수 있게 하는지에 대한 경험에 대해 이야기해 보고자 합니다. 발표 슬라이드: [link] "
     }];
 
 var idx = lunr(function () {
