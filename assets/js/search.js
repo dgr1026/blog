@@ -28,7 +28,7 @@ var documents = [{
     "id": 5,
     "url": "https://dgr1026.github.io/2020/02/25/%ED%85%8C%EC%8A%A4%ED%8A%B8-ipython.html",
     "title": "Title",
-    "body": "2020/02/25 -           &#53580;&#49828;&#53944; jupyter&#182;      print(&quot;Hello Everyone&quot;)  Hello  "
+    "body": "2020/02/25 -           &#53580;&#49828;&#53944; jupyter&#182;toc: true badges: truecomments: truecategories: [jupyter, python]      print(&quot;Hello Everyone&quot;)  Hello  "
     }];
 
 var idx = lunr(function () {
