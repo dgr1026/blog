@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![](images/profile.png "Profile")
+![](dgr1026.github.io/images/profile.png "Profile")
 
 
 ##Personal Identification
