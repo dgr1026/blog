@@ -34,6 +34,11 @@ var documents = [{
     "url": "https://dgr1026.github.io/2020/02/25/test.html",
     "title": "Test",
     "body": "2020/02/25 - 워드파일 테스트입니다           EM   F1         Model1   15   40       Model2   16   50       Model3   80   90   "
+    }, {
+    "id": 7,
+    "url": "https://dgr1026.github.io/2018/08/08/NAVER_Techtalk.html",
+    "title": "Title",
+    "body": "2018/08/08 -           &#50612;&#46523;&#44172; &#54644;&#50556; &#44592;&#44228;&#50640;&#44172; &#44544;&#51012; &#51096; &#51069;&#44256; &#47568;&#54624; &#49688; &#51080;&#44172; &#54624;&#44620;?&#182;2018-07 NAVER techtalk 발표 영상입니다. youtube: https://www. youtube. com/watch?v=XBCkJck0cdY&amp;fbclid=IwAR2GNgHei_OmZ6XqdUho5_7lQP8GQrqwiubJJJg9SceZDM1Ep42Jz1F_1No- 발표일: 2018. 7. SQuAD가 공개되고 널리 알려지면서 기계독해(Machine Reading Comprehension)가 각광받기 시작했습니다. SQuAD란 스탠포드대에서 만든, 기계가 주어진 문서를 읽고 그와 관련된 질문을 할 경우 정답을 찾아 답해주는 시스템을 위한 데이터셋을 뜻합니다. 이러한 기계독해가 어떻게 작동하는지, 어떻게 접근해야 이해를 돕게 할 수 있고 어떻게 해야 대답을 잘 할 수 있게 하는지에 대한 경험에 대해 이야기해 보고자 합니다. 발표 슬라이드: [link]"
     }];
 
 var idx = lunr(function () {
