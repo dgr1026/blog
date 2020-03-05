@@ -13,9 +13,7 @@ permalink: /about/
 - NLP Lab. Dept. of Computer and Communications Engineering, Kangwon National University<br>
 - Address : 1 Gangwondaehak-gil Chuncheon-si, Gangwon-do, Korea<br>
 - E-mail : nlphglee@kangwon.ac.kr, dgr1026@naver.com<br>
-- Supervisor : Harksoo Kim ; Full Professor <br>
-               (~ 2020.02 : Kangwon National University, <br>
-                2020.03 ~ current : Konkuk University)<br>
+- Supervisor : Harksoo Kim (~ 2020.02 : Kangwon National University, 2020.03 ~ current : Konkuk University; Full Professor )<br>
 
 ## Educational Background
 - <B>Kangwon National University</B>, Chuncheon, Korea. Ph.D course. Computer and Communications Engineering began in March 2016.<br>
@@ -23,7 +21,7 @@ permalink: /about/
 - <B>Kangwon National University</B>, Chuncheon, Korea. B.A. in Computer and Communications Engineering awarded in February 2016.<br>
 
 ## Research Intersts
-- Natural Language Processing, Question-Answering, Dialogue System
+- Natural Language Processing, Question Answering, Dialogue System
 
 ## Publication
 ### International Journal Papers
