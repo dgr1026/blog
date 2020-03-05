@@ -64,21 +64,21 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/blog/about/">About Me</a><a class="page-link" href="/blog/about/">About Me</a><a class="page-link" href="/blog/search/">Search</a><a class="page-link" href="/blog/search/">Search</a><a class="page-link" href="/blog/categories/">Tags</a><a class="page-link" href="/blog/categories/">Tags</a></div>
+        <div class="trigger"><a class="page-link" href="/blog/about/">About Me</a><a class="page-link" href="/blog/search/">Search</a><a class="page-link" href="/blog/categories/">Tags</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <!--adapted from https://jekyllcodex.org/without-plugin/search-lunr/-->
+        <!-- adapted from https://github.com/pmarsceill/just-the-docs -->
+<script type="text/javascript" src="/blog/assets/js/search.js"></script>
+<script type="text/javascript" src="/blog/assets/js/vendor/lunr.min.js"></script>
 
-<script src="/assets/js/vendor/lunr.min.js"></script>
-<script src="/assets/js/search.js"></script>
-
-<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <p><input type="text" class="form-control input-block form-control" id="lunrsearch" name="q" maxlength="500" value="" placeholder="Search" /></p>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
+<div class="search">
+    <div class="search-input-wrap">
+    <input type="text" class="js-search-input search-input input-block form-control" tabindex="0" placeholder="Search 이현구(Hyeon-gu Lee)" aria-label="Search 이현구(Hyeon-gu Lee)" autocomplete="off">
+    </div>
+    <br>
+    <div class="js-search-results search-results-wrap"></div>
 </div>
 
       </div>
